@@ -1,3 +1,4 @@
 __py_cache__
 doc/
 *.pyc
+*.egg-info/

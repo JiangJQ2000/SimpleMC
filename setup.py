@@ -7,7 +7,7 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     desc = fh.read()
 
-required = ["numpy", "scipy", "sklearn", "matplotlib", "numdifftools", "mpi4py"]
+required = ["numpy", "scipy", "scikit-learn", "matplotlib", "numdifftools", "mpi4py"]
 
 setup(
     name="simplemc",
